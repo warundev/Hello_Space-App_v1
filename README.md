@@ -1,6 +1,11 @@
 # hello_space
 
-A new Flutter project.
+A new Flutter project
+
+## App View
+![Screenshot_1696012980](https://github.com/warundev/Hello_Space-App_v1/assets/120333797/baca3e0a-0bd0-4484-a9ad-f735c9b2050c)
+
+
 
 ## Getting Started
 
